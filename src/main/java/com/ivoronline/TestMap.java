@@ -16,7 +16,7 @@ public class TestMap {
                                 map.put("BillKey", "Bill"   );       //Add key-element
                  
     //GET ELEMENT AT KEY
-    String   name             = map.get      ("key");                //Get element with Key = "key"
+    String   name             = map.get("key");                      //Get element with Key = "key"
     
     //REMOVE ELEMENT AT KEY
     String   removed          = map.remove("key");                   //Remove element with Key = "key"
