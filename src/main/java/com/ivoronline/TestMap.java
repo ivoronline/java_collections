@@ -23,8 +23,8 @@ public class TestMap {
                                 map.clear ( );                       //Remove all elements
                                 
     //CHECK FOR KEY or ELEMENT
-    boolean   containsElement = map.containsValue("element");
-    boolean   containsKey     = map.containsKey  ("key"    );
+    boolean  containsElement  = map.containsValue("element");
+    boolean  containsKey      = map.containsKey  ("key"    );
     
     //GET SIZE
     boolean  isEmpty          = map.isEmpty();
