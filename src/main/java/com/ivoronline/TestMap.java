@@ -10,7 +10,7 @@ public class TestMap {
     Map<String, String>         map = new HashMap();                 //Key = Strings, Element = String
   //Map<String, String>         map = new HashMap<String, String>(); //Key = Strings, Element = String
 
-    //ADD (KEY, ELEMENT)
+    //ADD (KEY, nELEMENT)
                                 map.put("key"    , "element");       //Add key-element
                                 map.put("JohnKey", "John"   );       //Add key-element
                                 map.put("BillKey", "Bill"   );       //Add key-element
