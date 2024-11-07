@@ -15,7 +15,7 @@ public class TestMap {
                                 map.put("JohnKey", "John"   );       //Add key-element
                                 map.put("BillKey", "Bill"   );       //Add key-element
                  
-    //GET ELEMENT AT KEY
+    //GET ELEMENT AT KEY - get() Method allows for any Object => no compilation error is thrown
     String   name             = map.get("key");                      //Get element with Key = "key"
     
     //REMOVE ELEMENT AT KEY
